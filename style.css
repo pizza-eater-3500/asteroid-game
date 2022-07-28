@@ -11,3 +11,10 @@
 .asteroid {
     position: absolute;
 }
+
+.tutorial-text {
+    position: absolute;
+    display:flow-root;
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+}
