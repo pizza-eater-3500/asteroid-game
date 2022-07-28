@@ -1,0 +1,13 @@
+.Player {
+    position: relative;
+    top: 90vh;
+}
+
+.bullet {
+    position: absolute;
+    border-radius: 50%;
+}
+
+.asteroid {
+    position: absolute;
+}
