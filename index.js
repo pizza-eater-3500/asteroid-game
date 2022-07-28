@@ -180,7 +180,6 @@ class Player {
     move(direction, player) {
         switch (direction) {
             case "left":
-                console.log("hi")
                 this.x -= this.xVelocity
                 this.x = this.detectVerticalCollision()
                 player.style.left = this.x + "vw"
